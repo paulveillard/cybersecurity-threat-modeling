@@ -6,6 +6,8 @@ An ongoing & curated collection of awesome software best practices and technique
 ## Introduction
 Threat Modeling is one of the most essential - and most misunderstood - parts of the development life cycle. Whether you're a security practitioner or a member of a development team, this guide will help you gain a better understanding of how you can apply core threat modeling concepts to your practice to protect your systems against threats.
 
+#### The Basics of Threat Modeling
+
 # Theory
 
 ## `Theory` - Table of Contents
