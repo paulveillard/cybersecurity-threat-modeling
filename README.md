@@ -21,6 +21,8 @@ Threat Modeling is one of the most essential - and most misunderstood - parts of
 > A conceptual exercise that aims to help you understand which characteristics of a system’s design should be modified to reduce risk in the system to an acceptable level for its owners, users, and operators.
 ![activity](https://github.com/paulveillard/cybersecurity-threat-modeling/blob/main/img/threat-model-process-1.png)
 
+When performing threat modeling, you look at a system as a collection of its components and their interactions with the world outside the system (like other systems it interacts with) and the actors that may perform actions on these systems. Then you try to imagine how these components and interactions may fail or be made to fail. From this process, you’ll identify threats to the system, which will in turn lead to changes and modifications to the system. The result is a system that can resist the threats you imagined.
+
 
 # Theory
 
