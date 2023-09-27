@@ -18,6 +18,7 @@ Threat Modeling is one of the most essential - and most misunderstood - parts of
 
 ##### 3) The Activity of Threat Modeling
 > A conceptual exercise that aims to help you understand which characteristics of a system’s design should be modified to reduce risk in the system to an acceptable level for its owners, users, and operators.
+![activity](https://github.com/paulveillard/cybersecurity-threat-modeling/blob/main/img/threat-model-process-1.png)
 
 
 # Theory
