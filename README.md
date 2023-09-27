@@ -7,6 +7,16 @@ An ongoing & curated collection of awesome software best practices and technique
 Threat Modeling is one of the most essential - and most misunderstood - parts of the development life cycle. Whether you're a security practitioner or a member of a development team, this guide will help you gain a better understanding of how you can apply core threat modeling concepts to your practice to protect your systems against threats.
 
 #### The Basics of Threat Modeling
+##### 1) The Process of Threat Modeling
+
+That is analyzing a system to look for weaknesses that come from less-desirable design choices.
+
+2 - The Goal of threat Modeling
+That is to identify these weaknesses before they are baked into the system (as a result of implementation or deployment) so you can take corrective action as early as possible.
+
+3 - The Activity of Threat Modeling
+A conceptual exercise that aims to help you understand which characteristics of a system’s design should be modified to reduce risk in the system to an acceptable level for its owners, users, and operators.
+
 
 # Theory
 
