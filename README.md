@@ -12,6 +12,7 @@ Threat Modeling is one of the most essential - and most misunderstood - parts of
 ##### 1) The Process of Threat Modeling
 
 > That is analyzing a system to look for weaknesses that come from less-desirable design choices.
+![process](https://github.com/paulveillard/cybersecurity-threat-modeling/blob/main/img/threat-modeling-process.jpg)
 
 ##### 2) The Goal of threat Modeling
 > That is to identify these weaknesses before they are baked into the system (as a result of implementation or deployment) so you can take corrective action as early as possible.
