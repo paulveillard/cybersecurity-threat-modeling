@@ -43,7 +43,7 @@ When performing threat modeling, you look at a system as a collection of its com
 
 
 
-## Fundamentals
+## `Fundamentals`
 
 - [The Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
 
